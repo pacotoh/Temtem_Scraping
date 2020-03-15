@@ -1,0 +1,1446 @@
+1584284907621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVwJ9u"
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.659: Theme parsing error: gtk.css:385:8: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.659: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.659: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.660: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.660: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.660: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.660: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.661: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.662: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.663: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.663: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.663: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.663: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.663: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.666: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.667: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.669: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.670: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.674: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.674: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.674: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.674: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.674: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.674: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.676: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.677: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.678: Theme parsing error: gtk.css:5674:16: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.678: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6359:14: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6364:10: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6386:14: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.680: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.681: Theme parsing error: gtk.css:6627:14: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.681: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.681: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.681: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7284:12: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7292:14: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7301:16: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7306:14: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7408:16: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7416:12: not a number
+
+(firefox:4782): Gtk-WARNING **: 16:08:27.682: Theme parsing error: gtk.css:7416:12: Expected a string.
+1584284907944	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284908251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284908251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284908251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284908252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.789: Theme parsing error: gtk.css:385:8: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.789: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.789: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.790: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.790: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.790: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.790: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.790: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.791: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.792: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.793: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.793: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.793: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.793: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.793: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.793: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.796: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.797: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.798: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.798: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.800: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.801: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.805: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.805: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.805: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.805: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.805: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.805: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.807: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.808: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.809: Theme parsing error: gtk.css:5674:16: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.809: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6359:14: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6364:10: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6386:14: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.811: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.812: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.812: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.812: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.812: Theme parsing error: gtk.css:6627:14: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.812: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.813: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.813: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7284:12: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7292:14: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7301:16: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7306:14: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7408:16: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7416:12: not a number
+
+(/usr/lib/firefox/firefox:4865): Gtk-WARNING **: 16:08:28.814: Theme parsing error: gtk.css:7416:12: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.924: Theme parsing error: gtk.css:385:8: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.925: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.925: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.927: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.927: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.927: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.927: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.927: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.927: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.928: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.928: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.928: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.928: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.928: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.928: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.929: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.929: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.929: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.929: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.930: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.930: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.930: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.930: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.931: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.931: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.931: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.931: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.931: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.932: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.935: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.936: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.937: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.937: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.939: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.940: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.944: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.944: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.944: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.944: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.944: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.944: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.946: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.947: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.947: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.947: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.948: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.948: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.948: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.948: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.948: Theme parsing error: gtk.css:5674:16: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.948: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6359:14: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6364:10: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6386:14: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.951: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.952: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.952: Theme parsing error: gtk.css:6627:14: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.952: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.952: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.952: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7284:12: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7292:14: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7301:16: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7306:14: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7408:16: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.953: Theme parsing error: gtk.css:7416:12: not a number
+
+(/usr/lib/firefox/firefox:4952): Gtk-WARNING **: 16:08:28.954: Theme parsing error: gtk.css:7416:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.832: Theme parsing error: gtk.css:385:8: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.832: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.833: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.833: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.833: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.833: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.834: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.835: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.835: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.835: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.835: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.835: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.835: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.836: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.836: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.836: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.836: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.836: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.836: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+1584284909838	Marionette	INFO	Listening on port 33165
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.839: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.840: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.841: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.841: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.842: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.844: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.847: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.847: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.847: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.847: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.847: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.847: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.849: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.850: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.851: Theme parsing error: gtk.css:5674:16: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.851: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6359:14: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6364:10: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6386:14: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.853: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.854: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.854: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.854: Theme parsing error: gtk.css:6627:14: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.854: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.854: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7284:12: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7292:14: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7301:16: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7306:14: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.855: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7408:16: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7416:12: not a number
+
+(/usr/lib/firefox/firefox:5029): Gtk-WARNING **: 16:08:29.856: Theme parsing error: gtk.css:7416:12: Expected a string.
+1584284909929	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1584284929303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKfk6zm"
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.337: Theme parsing error: gtk.css:385:8: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.337: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.337: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.338: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.339: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.340: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.341: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.344: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.344: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.344: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.344: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.345: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.345: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.345: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.345: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.345: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.345: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.347: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.348: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.351: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.351: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.351: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.351: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.351: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.351: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.353: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.354: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.355: Theme parsing error: gtk.css:5674:16: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.355: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6359:14: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6364:10: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6386:14: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.358: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.359: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.359: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.359: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.359: Theme parsing error: gtk.css:6627:14: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.359: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:7284:12: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:7292:14: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.360: Theme parsing error: gtk.css:7301:16: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7306:14: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7408:16: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7416:12: not a number
+
+(firefox:5127): Gtk-WARNING **: 16:08:49.361: Theme parsing error: gtk.css:7416:12: Expected a string.
+1584284929396	Marionette	INFO	Stopped listening on port 33165
+1584284929646	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584284929957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584284929957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584284929958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584284929958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.454: Theme parsing error: gtk.css:385:8: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.454: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.455: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.455: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.456: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.457: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.458: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.458: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.458: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.458: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.458: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.458: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.462: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.462: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.462: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.462: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.463: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.463: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.463: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.463: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.463: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.463: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.465: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.466: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.469: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.469: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.469: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.469: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.469: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.469: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.471: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.472: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.472: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.472: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.473: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.473: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.473: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.473: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.473: Theme parsing error: gtk.css:5674:16: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.473: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6359:14: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6364:10: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6386:14: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.475: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.476: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.476: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.476: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.476: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.476: Theme parsing error: gtk.css:6627:14: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.476: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.477: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.477: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7284:12: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7292:14: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7301:16: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7306:14: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7408:16: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7416:12: not a number
+
+(/usr/lib/firefox/firefox:5214): Gtk-WARNING **: 16:08:50.478: Theme parsing error: gtk.css:7416:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.592: Theme parsing error: gtk.css:385:8: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.592: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.593: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.593: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.594: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.595: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.595: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.595: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.595: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.595: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.595: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.596: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.596: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.596: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.596: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.596: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.596: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.599: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.600: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.602: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.603: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.606: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.606: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.606: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.606: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.606: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.606: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.607: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.609: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.610: Theme parsing error: gtk.css:5674:16: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.610: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.611: Theme parsing error: gtk.css:6359:14: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6364:10: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6386:14: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6627:14: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.612: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.613: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.613: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7284:12: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7292:14: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7301:16: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7306:14: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7408:16: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7416:12: not a number
+
+(/usr/lib/firefox/firefox:5304): Gtk-WARNING **: 16:08:50.614: Theme parsing error: gtk.css:7416:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.539: Theme parsing error: gtk.css:385:8: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.539: Theme parsing error: gtk.css:385:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.540: Theme parsing error: gtk.css:453:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.540: Theme parsing error: gtk.css:623:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.540: Theme parsing error: gtk.css:636:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.540: Theme parsing error: gtk.css:648:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.540: Theme parsing error: gtk.css:660:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.540: Theme parsing error: gtk.css:669:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:681:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:691:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:704:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:715:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:724:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:744:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:754:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:775:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:819:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:933:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.541: Theme parsing error: gtk.css:943:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:956:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:967:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:976:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:1019:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:1133:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:1143:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:1156:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:1167:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.542: Theme parsing error: gtk.css:1176:73: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.543: Theme parsing error: gtk.css:1295:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.545: Theme parsing error: gtk.css:2103:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2264:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2270:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2277:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2324:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2333:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2342:69: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2351:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.546: Theme parsing error: gtk.css:2391:54: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.547: Theme parsing error: gtk.css:2396:56: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.548: Theme parsing error: gtk.css:2909:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.549: Theme parsing error: gtk.css:3218:17: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.552: Theme parsing error: gtk.css:4439:58: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.553: Theme parsing error: gtk.css:4463:72: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.553: Theme parsing error: gtk.css:4474:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.553: Theme parsing error: gtk.css:4483:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.553: Theme parsing error: gtk.css:4492:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.553: Theme parsing error: gtk.css:4500:74: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.554: Theme parsing error: gtk.css:4901:55: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.555: Theme parsing error: gtk.css:5365:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.555: Theme parsing error: gtk.css:5374:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.555: Theme parsing error: gtk.css:5383:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.555: Theme parsing error: gtk.css:5392:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.555: Theme parsing error: gtk.css:5400:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.556: Theme parsing error: gtk.css:5447:9: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.556: Theme parsing error: gtk.css:5447:9: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.556: Theme parsing error: gtk.css:5674:16: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.556: Theme parsing error: gtk.css:5674:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6359:14: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6359:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6364:10: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6364:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6378:23: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6386:14: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.558: Theme parsing error: gtk.css:6386:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.559: Theme parsing error: gtk.css:6388:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.559: Theme parsing error: gtk.css:6438:13: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.559: Theme parsing error: gtk.css:6551:16: The 'outline-radius' property has been renamed to '-gtk-outline-radius'
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.559: Theme parsing error: gtk.css:6574:52: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.559: Theme parsing error: gtk.css:6627:14: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.559: Theme parsing error: gtk.css:6627:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.560: Theme parsing error: gtk.css:6937:10: Not using units is deprecated. Assuming 'px'.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.560: Theme parsing error: gtk.css:6937:10: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.560: Theme parsing error: gtk.css:7284:12: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.560: Theme parsing error: gtk.css:7284:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.560: Theme parsing error: gtk.css:7292:14: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7292:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7301:16: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7301:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7306:14: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7306:14: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7370:68: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7379:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7388:67: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7397:70: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7405:12: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7408:16: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7408:16: Expected a string.
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7416:12: not a number
+
+(/usr/lib/firefox/firefox:5381): Gtk-WARNING **: 16:08:51.561: Theme parsing error: gtk.css:7416:12: Expected a string.
+1584284931564	Marionette	INFO	Listening on port 42889
+1584284931615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584284934969	Marionette	INFO	Stopped listening on port 42889

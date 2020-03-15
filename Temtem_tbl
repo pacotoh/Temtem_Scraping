@@ -1,0 +1,964 @@
+<table class="wikitable sortable mw-collapsible temtem-list" data-collapsetext="Hide" data-expandtext="Show" style="table-layout: fixed; text-align: center;">
+<caption style="background: #FFF6; text-align: center;">List of Temtem's Base Stats
+</caption>
+<tbody><tr>
+<th rowspan="2">No.</th>
+<th rowspan="2">Temtem</th>
+<th colspan="2">Type(s)</th>
+<th colspan="8">Base Stats
+</th></tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>HP</th>
+<th>STA</th>
+<th>SPD</th>
+<th>ATK</th>
+<th>DEF</th>
+<th>SPATK</th>
+<th>SPDEF</th>
+<th>Total
+</th></tr>
+<tr>
+<td>2
+</td>
+<td><a class="image" href="/File:Oree.png"><img alt="Oree.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/99/Oree.png/50px-Oree.png?version=d96fdaf90c7e345a5e463e1b3c646481" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/99/Oree.png/75px-Oree.png?version=d96fdaf90c7e345a5e463e1b3c646481 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/99/Oree.png/100px-Oree.png?version=d96fdaf90c7e345a5e463e1b3c646481 2x" width="50"/></a> <a href="/Oree" title="Oree">Oree</a>
+</td>
+<td colspan="2"><a href="/Digital_Type" title="Digital Type"><img alt="digital" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1b/Digital.png/25px-Digital.png?version=5f15419c934870e364b20f8eb85cc157" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1b/Digital.png/38px-Digital.png?version=5f15419c934870e364b20f8eb85cc157 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1b/Digital.png/50px-Digital.png?version=5f15419c934870e364b20f8eb85cc157 2x" width="25"/></a><a class="mw-redirect" href="/Digital" title="Digital">Digital</a>
+</td>
+<td>61
+</td>
+<td>74
+</td>
+<td>35
+</td>
+<td>65
+</td>
+<td>44
+</td>
+<td>32
+</td>
+<td>31
+</td>
+<td>342
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><a class="image" href="/File:Zaobian.png"><img alt="Zaobian.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/54/Zaobian.png/50px-Zaobian.png?version=dc8484405417da72020dcd24979f6d75" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/54/Zaobian.png/75px-Zaobian.png?version=dc8484405417da72020dcd24979f6d75 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/54/Zaobian.png/100px-Zaobian.png?version=dc8484405417da72020dcd24979f6d75 2x" width="50"/></a> <a href="/Zaobian" title="Zaobian">Zaobian</a>
+</td>
+<td colspan="2"><a href="/Digital_Type" title="Digital Type"><img alt="digital" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1b/Digital.png/25px-Digital.png?version=5f15419c934870e364b20f8eb85cc157" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1b/Digital.png/38px-Digital.png?version=5f15419c934870e364b20f8eb85cc157 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1b/Digital.png/50px-Digital.png?version=5f15419c934870e364b20f8eb85cc157 2x" width="25"/></a><a class="mw-redirect" href="/Digital" title="Digital">Digital</a>
+</td>
+<td>75
+</td>
+<td>90
+</td>
+<td>51
+</td>
+<td>84
+</td>
+<td>50
+</td>
+<td>42
+</td>
+<td>44
+</td>
+<td>436
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><a class="image" href="/File:Platypet.png"><img alt="Platypet.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/0/03/Platypet.png/50px-Platypet.png?version=2ed6ef60513684749f17f6568db70a5f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/0/03/Platypet.png/75px-Platypet.png?version=2ed6ef60513684749f17f6568db70a5f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/0/03/Platypet.png/100px-Platypet.png?version=2ed6ef60513684749f17f6568db70a5f 2x" width="50"/></a> <a href="/Platypet" title="Platypet">Platypet</a>
+</td>
+<td><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a></td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a>
+</td>
+<td>55
+</td>
+<td>39
+</td>
+<td>65
+</td>
+<td>45
+</td>
+<td>31
+</td>
+<td>67
+</td>
+<td>56
+</td>
+<td>358
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><a class="image" href="/File:Platox.png"><img alt="Platox.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7b/Platox.png/50px-Platox.png?version=ecb02a838b537112d822e030e615eb1e" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7b/Platox.png/75px-Platox.png?version=ecb02a838b537112d822e030e615eb1e 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7b/Platox.png/100px-Platox.png?version=ecb02a838b537112d822e030e615eb1e 2x" width="50"/></a> <a href="/Platox" title="Platox">Platox</a>
+</td>
+<td><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a></td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a>
+</td>
+<td>62
+</td>
+<td>44
+</td>
+<td>74
+</td>
+<td>50
+</td>
+<td>35
+</td>
+<td>76
+</td>
+<td>63
+</td>
+<td>404
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><a class="image" href="/File:Platimous.png"><img alt="Platimous.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7f/Platimous.png/50px-Platimous.png?version=aa20ceba660a3ce285c4080cdcefec79" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7f/Platimous.png/75px-Platimous.png?version=aa20ceba660a3ce285c4080cdcefec79 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7f/Platimous.png/100px-Platimous.png?version=aa20ceba660a3ce285c4080cdcefec79 2x" width="50"/></a> <a href="/Platimous" title="Platimous">Platimous</a>
+</td>
+<td><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a></td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a>
+</td>
+<td>71
+</td>
+<td>49
+</td>
+<td>82
+</td>
+<td>56
+</td>
+<td>39
+</td>
+<td>90
+</td>
+<td>70
+</td>
+<td>457
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><a class="image" href="/File:Swali.png"><img alt="Swali.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/8/8a/Swali.png/50px-Swali.png?version=0724217755a8bf274ca58c97859ec5c3" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/8/8a/Swali.png/75px-Swali.png?version=0724217755a8bf274ca58c97859ec5c3 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/8/8a/Swali.png/100px-Swali.png?version=0724217755a8bf274ca58c97859ec5c3 2x" width="50"/></a> <a href="/Swali" title="Swali">Swali</a>
+</td>
+<td colspan="2"><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a>
+</td>
+<td>44
+</td>
+<td>65
+</td>
+<td>35
+</td>
+<td>50
+</td>
+<td>40
+</td>
+<td>55
+</td>
+<td>60
+</td>
+<td>349
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><a class="image" href="/File:Loali.png"><img alt="Loali.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/0/0c/Loali.png/50px-Loali.png?version=88353495da7758b4dc6bdba2dcb2d94e" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/0/0c/Loali.png/75px-Loali.png?version=88353495da7758b4dc6bdba2dcb2d94e 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/0/0c/Loali.png/100px-Loali.png?version=88353495da7758b4dc6bdba2dcb2d94e 2x" width="50"/></a> <a href="/Loali" title="Loali">Loali</a>
+</td>
+<td><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a></td>
+<td><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>55
+</td>
+<td>80
+</td>
+<td>80
+</td>
+<td>60
+</td>
+<td>50
+</td>
+<td>70
+</td>
+<td>90
+</td>
+<td>485
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><a class="image" href="/File:Tateru.png"><img alt="Tateru.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/55/Tateru.png/50px-Tateru.png?version=033ab153a338fdd4a8d788f21214b7ed" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/55/Tateru.png/75px-Tateru.png?version=033ab153a338fdd4a8d788f21214b7ed 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/55/Tateru.png/100px-Tateru.png?version=033ab153a338fdd4a8d788f21214b7ed 2x" width="50"/></a> <a href="/Tateru" title="Tateru">Tateru</a>
+</td>
+<td colspan="2"><a href="/Neutral_Type" title="Neutral Type"><img alt="neutral" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/25px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/38px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/50px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266 2x" width="25"/></a><a class="mw-redirect" href="/Neutral" title="Neutral">Neutral</a>
+</td>
+<td>70
+</td>
+<td>90
+</td>
+<td>60
+</td>
+<td>68
+</td>
+<td>66
+</td>
+<td>54
+</td>
+<td>66
+</td>
+<td>474
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><a class="image" href="/File:Paharo.png"><img alt="Paharo.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1c/Paharo.png/50px-Paharo.png?version=0a74556f2369568c59de713d5ca90f9c" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1c/Paharo.png/75px-Paharo.png?version=0a74556f2369568c59de713d5ca90f9c 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1c/Paharo.png/100px-Paharo.png?version=0a74556f2369568c59de713d5ca90f9c 2x" width="50"/></a> <a href="/Paharo" title="Paharo">Paharo</a>
+</td>
+<td colspan="2"><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>48
+</td>
+<td>18
+</td>
+<td>60
+</td>
+<td>40
+</td>
+<td>40
+</td>
+<td>50
+</td>
+<td>50
+</td>
+<td>306
+</td></tr>
+<tr>
+<td>17
+</td>
+<td><a class="image" href="/File:Paharac.png"><img alt="Paharac.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2c/Paharac.png/50px-Paharac.png?version=2c13c1c538fd8c5ae67399de91294122" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2c/Paharac.png/75px-Paharac.png?version=2c13c1c538fd8c5ae67399de91294122 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2c/Paharac.png/100px-Paharac.png?version=2c13c1c538fd8c5ae67399de91294122 2x" width="50"/></a> <a href="/Paharac" title="Paharac">Paharac</a>
+</td>
+<td colspan="2"><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>60
+</td>
+<td>30
+</td>
+<td>70
+</td>
+<td>50
+</td>
+<td>55
+</td>
+<td>60
+</td>
+<td>60
+</td>
+<td>385
+</td></tr>
+<tr>
+<td>18
+</td>
+<td><a class="image" href="/File:Granpah.png"><img alt="Granpah.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/d/d5/Granpah.png/50px-Granpah.png?version=70bbdd6ff21d62dea937542109dfb9d6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/d/d5/Granpah.png/75px-Granpah.png?version=70bbdd6ff21d62dea937542109dfb9d6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/d/d5/Granpah.png/100px-Granpah.png?version=70bbdd6ff21d62dea937542109dfb9d6 2x" width="50"/></a> <a href="/Granpah" title="Granpah">Granpah</a>
+</td>
+<td colspan="2"><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>69
+</td>
+<td>36
+</td>
+<td>78
+</td>
+<td>55
+</td>
+<td>61
+</td>
+<td>72
+</td>
+<td>66
+</td>
+<td>437
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><a class="image" href="/File:Ampling.png"><img alt="Ampling.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/93/Ampling.png/50px-Ampling.png?version=8e5d766b41192db972d7ca89c3de1166" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/93/Ampling.png/75px-Ampling.png?version=8e5d766b41192db972d7ca89c3de1166 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/93/Ampling.png/100px-Ampling.png?version=8e5d766b41192db972d7ca89c3de1166 2x" width="50"/></a> <a href="/Ampling" title="Ampling">Ampling</a>
+</td>
+<td colspan="2"><a href="/Electric_Type" title="Electric Type"><img alt="electric" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/25px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/38px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/50px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af 2x" width="25"/></a><a class="mw-redirect" href="/Electric" title="Electric">Electric</a>
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><a class="image" href="/File:Amphatyr.png"><img alt="Amphatyr.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a8/Amphatyr.png/41px-Amphatyr.png?version=d475086a24b523e726986ab26c0d19e7" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a8/Amphatyr.png/61px-Amphatyr.png?version=d475086a24b523e726986ab26c0d19e7 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a8/Amphatyr.png/82px-Amphatyr.png?version=d475086a24b523e726986ab26c0d19e7 2x" width="41"/></a> <a href="/Amphatyr" title="Amphatyr">Amphatyr</a>
+</td>
+<td><a href="/Electric_Type" title="Electric Type"><img alt="electric" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/25px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/38px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/50px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af 2x" width="25"/></a><a class="mw-redirect" href="/Electric" title="Electric">Electric</a></td>
+<td><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a>
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td></tr>
+<tr>
+<td>21
+</td>
+<td><a class="image" href="/File:Bunbun.png"><img alt="Bunbun.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/38/Bunbun.png/50px-Bunbun.png?version=43bc5f7facfc4c40b5cf0970ec0a06e5" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/38/Bunbun.png/75px-Bunbun.png?version=43bc5f7facfc4c40b5cf0970ec0a06e5 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/38/Bunbun.png/100px-Bunbun.png?version=43bc5f7facfc4c40b5cf0970ec0a06e5 2x" width="50"/></a> <a href="/Bunbun" title="Bunbun">Bunbun</a>
+</td>
+<td><a href="/Earth_Type" title="Earth Type"><img alt="earth" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/25px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/38px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/50px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 2x" width="25"/></a><a class="mw-redirect" href="/Earth" title="Earth">Earth</a></td>
+<td><a href="/Crystal_Type" title="Crystal Type"><img alt="crystal" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/25px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/38px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/50px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 2x" width="25"/></a><a class="mw-redirect" href="/Crystal" title="Crystal">Crystal</a>
+</td>
+<td>72
+</td>
+<td>40
+</td>
+<td>69
+</td>
+<td>50
+</td>
+<td>36
+</td>
+<td>64
+</td>
+<td>43
+</td>
+<td>374
+</td></tr>
+<tr>
+<td>22
+</td>
+<td><a class="image" href="/File:Mudrid.png"><img alt="Mudrid.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/f5/Mudrid.png/50px-Mudrid.png?version=990aa74996eebe6f0c1d8e47e9beea5e" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/f5/Mudrid.png/75px-Mudrid.png?version=990aa74996eebe6f0c1d8e47e9beea5e 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/f5/Mudrid.png/100px-Mudrid.png?version=990aa74996eebe6f0c1d8e47e9beea5e 2x" width="50"/></a> <a href="/Mudrid" title="Mudrid">Mudrid</a>
+</td>
+<td><a href="/Earth_Type" title="Earth Type"><img alt="earth" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/25px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/38px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/50px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 2x" width="25"/></a><a class="mw-redirect" href="/Earth" title="Earth">Earth</a></td>
+<td><a href="/Crystal_Type" title="Crystal Type"><img alt="crystal" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/25px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/38px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/50px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 2x" width="25"/></a><a class="mw-redirect" href="/Crystal" title="Crystal">Crystal</a>
+</td>
+<td>85
+</td>
+<td>44
+</td>
+<td>95
+</td>
+<td>60
+</td>
+<td>42
+</td>
+<td>75
+</td>
+<td>50
+</td>
+<td>451
+</td></tr>
+<tr>
+<td>23
+</td>
+<td><a class="image" href="/File:Hidody.png"><img alt="Hidody.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1a/Hidody.png/50px-Hidody.png?version=1f386f34ee0cef6ba8a63041ed0c93f9" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1a/Hidody.png/75px-Hidody.png?version=1f386f34ee0cef6ba8a63041ed0c93f9 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1a/Hidody.png/100px-Hidody.png?version=1f386f34ee0cef6ba8a63041ed0c93f9 2x" width="50"/></a> <a href="/Hidody" title="Hidody">Hidody</a>
+</td>
+<td colspan="2"><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a>
+</td>
+<td>49
+</td>
+<td>70
+</td>
+<td>39
+</td>
+<td>42
+</td>
+<td>39
+</td>
+<td>62
+</td>
+<td>55
+</td>
+<td>356
+</td></tr>
+<tr>
+<td>24
+</td>
+<td><a class="image" href="/File:Taifu.png"><img alt="Taifu.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/36/Taifu.png/50px-Taifu.png?version=479c3c1df5418b17f00aa661afd97ab5" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/36/Taifu.png/75px-Taifu.png?version=479c3c1df5418b17f00aa661afd97ab5 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/36/Taifu.png/100px-Taifu.png?version=479c3c1df5418b17f00aa661afd97ab5 2x" width="50"/></a> <a href="/Taifu" title="Taifu">Taifu</a>
+</td>
+<td colspan="2"><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a>
+</td>
+<td>60
+</td>
+<td>87
+</td>
+<td>45
+</td>
+<td>50
+</td>
+<td>45
+</td>
+<td>78
+</td>
+<td>78
+</td>
+<td>443
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><a class="image" href="/File:Fomu.png"><img alt="Fomu.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/76/Fomu.png/50px-Fomu.png?version=7016f448baac54936916871534947052" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/76/Fomu.png/75px-Fomu.png?version=7016f448baac54936916871534947052 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/76/Fomu.png/100px-Fomu.png?version=7016f448baac54936916871534947052 2x" width="50"/></a> <a href="/Fomu" title="Fomu">Fomu</a>
+</td>
+<td colspan="2"><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a>
+</td>
+<td>40
+</td>
+<td>60
+</td>
+<td>40
+</td>
+<td>30
+</td>
+<td>35
+</td>
+<td>65
+</td>
+<td>70
+</td>
+<td>340
+</td></tr>
+<tr>
+<td>26
+</td>
+<td><a class="image" href="/File:Wiplump.png"><img alt="Wiplump.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/f7/Wiplump.png/50px-Wiplump.png?version=d672938dda785e5ad17bdbb198449221" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/f7/Wiplump.png/75px-Wiplump.png?version=d672938dda785e5ad17bdbb198449221 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/f7/Wiplump.png/100px-Wiplump.png?version=d672938dda785e5ad17bdbb198449221 2x" width="50"/></a> <a href="/Wiplump" title="Wiplump">Wiplump</a>
+</td>
+<td><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a></td>
+<td><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>66
+</td>
+<td>80
+</td>
+<td>70
+</td>
+<td>40
+</td>
+<td>50
+</td>
+<td>95
+</td>
+<td>80
+</td>
+<td>481
+</td></tr>
+<tr>
+<td>27
+</td>
+<td><a class="image" href="/File:Skail.png"><img alt="Skail.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/77/Skail.png/50px-Skail.png?version=9eb43f4cf4393d1998163a5da003cf2d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/77/Skail.png/75px-Skail.png?version=9eb43f4cf4393d1998163a5da003cf2d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/77/Skail.png/100px-Skail.png?version=9eb43f4cf4393d1998163a5da003cf2d 2x" width="50"/></a> <a href="/Skail" title="Skail">Skail</a>
+</td>
+<td colspan="2"><a href="/Neutral_Type" title="Neutral Type"><img alt="neutral" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/25px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/38px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/50px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266 2x" width="25"/></a><a class="mw-redirect" href="/Neutral" title="Neutral">Neutral</a>
+</td>
+<td>57
+</td>
+<td>43
+</td>
+<td>60
+</td>
+<td>45
+</td>
+<td>50
+</td>
+<td>32
+</td>
+<td>41
+</td>
+<td>328
+</td></tr>
+<tr>
+<td>28
+</td>
+<td><a class="image" href="/File:Skunch.png"><img alt="Skunch.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/4b/Skunch.png/50px-Skunch.png?version=262836bc1f07ab598baeaef65c316c75" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/4b/Skunch.png/75px-Skunch.png?version=262836bc1f07ab598baeaef65c316c75 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/4b/Skunch.png/100px-Skunch.png?version=262836bc1f07ab598baeaef65c316c75 2x" width="50"/></a> <a href="/Skunch" title="Skunch">Skunch</a>
+</td>
+<td><a href="/Neutral_Type" title="Neutral Type"><img alt="neutral" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/25px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/38px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Neutral.png/50px-Neutral.png?version=6e04640132f00f8c3c53b8472696f266 2x" width="25"/></a><a class="mw-redirect" href="/Neutral" title="Neutral">Neutral</a></td>
+<td><a href="/Melee_Type" title="Melee Type"><img alt="melee" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/8/8f/Melee.png/25px-Melee.png?version=aec35847f45e0ac04cb394014759e326" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/8/8f/Melee.png/38px-Melee.png?version=aec35847f45e0ac04cb394014759e326 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/8/8f/Melee.png/50px-Melee.png?version=aec35847f45e0ac04cb394014759e326 2x" width="25"/></a><a class="mw-redirect" href="/Melee" title="Melee">Melee</a>
+</td>
+<td>72
+</td>
+<td>62
+</td>
+<td>75
+</td>
+<td>70
+</td>
+<td>70
+</td>
+<td>45
+</td>
+<td>60
+</td>
+<td>454
+</td></tr>
+<tr>
+<td>32
+</td>
+<td><a class="image" href="/File:Houchic.png"><img alt="Houchic.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/af/Houchic.png/50px-Houchic.png?version=db212141a7e58e4f7827418e69157523" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/af/Houchic.png/75px-Houchic.png?version=db212141a7e58e4f7827418e69157523 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/af/Houchic.png/100px-Houchic.png?version=db212141a7e58e4f7827418e69157523 2x" width="50"/></a> <a href="/Houchic" title="Houchic">Houchic</a>
+</td>
+<td colspan="2"><a href="/Mental_Type" title="Mental Type"><img alt="mental" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/25px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/38px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/50px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 2x" width="25"/></a><a class="mw-redirect" href="/Mental" title="Mental">Mental</a>
+</td>
+<td>38
+</td>
+<td>44
+</td>
+<td>66
+</td>
+<td>40
+</td>
+<td>41
+</td>
+<td>72
+</td>
+<td>52
+</td>
+<td>353
+</td></tr>
+<tr>
+<td>33
+</td>
+<td><a class="image" href="/File:Tental.png"><img alt="Tental.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/37/Tental.png/50px-Tental.png?version=8b6fa61221918110b3ff897c05634467" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/37/Tental.png/75px-Tental.png?version=8b6fa61221918110b3ff897c05634467 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/37/Tental.png/100px-Tental.png?version=8b6fa61221918110b3ff897c05634467 2x" width="50"/></a> <a href="/Tental" title="Tental">Tental</a>
+</td>
+<td colspan="2"><a href="/Mental_Type" title="Mental Type"><img alt="mental" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/25px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/38px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/50px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 2x" width="25"/></a><a class="mw-redirect" href="/Mental" title="Mental">Mental</a>
+</td>
+<td>41
+</td>
+<td>51
+</td>
+<td>76
+</td>
+<td>42
+</td>
+<td>50
+</td>
+<td>81
+</td>
+<td>62
+</td>
+<td>403
+</td></tr>
+<tr>
+<td>35
+</td>
+<td><a class="image" href="/File:Orphyll.png"><img alt="Orphyll.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Orphyll.png/50px-Orphyll.png?version=c990fc5786363434e2f8342557677cea" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Orphyll.png/75px-Orphyll.png?version=c990fc5786363434e2f8342557677cea 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Orphyll.png/100px-Orphyll.png?version=c990fc5786363434e2f8342557677cea 2x" width="50"/></a> <a href="/Orphyll" title="Orphyll">Orphyll</a>
+</td>
+<td><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a></td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a>
+</td>
+<td>42
+</td>
+<td>48
+</td>
+<td>75
+</td>
+<td>68
+</td>
+<td>64
+</td>
+<td>27
+</td>
+<td>40
+</td>
+<td>364
+</td></tr>
+<tr>
+<td>36
+</td>
+<td><a class="image" href="/File:Nidrasil.png"><img alt="Nidrasil.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/5b/Nidrasil.png/50px-Nidrasil.png?version=79662e7a88f26e3110660ff03ca9047b" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/5b/Nidrasil.png/75px-Nidrasil.png?version=79662e7a88f26e3110660ff03ca9047b 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/5/5b/Nidrasil.png/100px-Nidrasil.png?version=79662e7a88f26e3110660ff03ca9047b 2x" width="50"/></a> <a href="/Nidrasil" title="Nidrasil">Nidrasil</a>
+</td>
+<td><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a></td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a>
+</td>
+<td>77
+</td>
+<td>52
+</td>
+<td>61
+</td>
+<td>88
+</td>
+<td>80
+</td>
+<td>36
+</td>
+<td>51
+</td>
+<td>445
+</td></tr>
+<tr>
+<td>37
+</td>
+<td><a class="image" href="/File:Banapi.png"><img alt="Banapi.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/27/Banapi.png/50px-Banapi.png?version=acac08bd74b62a00b95c7d32f910dde5" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/27/Banapi.png/75px-Banapi.png?version=acac08bd74b62a00b95c7d32f910dde5 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/27/Banapi.png/100px-Banapi.png?version=acac08bd74b62a00b95c7d32f910dde5 2x" width="50"/></a> <a href="/Banapi" title="Banapi">Banapi</a>
+</td>
+<td colspan="2"><a href="/Fire_Type" title="Fire Type"><img alt="fire" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/25px-Fire.png?version=133924e10316f49f285d3b51a0dc855d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/38px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/50px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 2x" width="25"/></a><a class="mw-redirect" href="/Fire" title="Fire">Fire</a>
+</td>
+<td>42
+</td>
+<td>40
+</td>
+<td>70
+</td>
+<td>50
+</td>
+<td>50
+</td>
+<td>40
+</td>
+<td>41
+</td>
+<td>333
+</td></tr>
+<tr>
+<td>38
+</td>
+<td><a class="image" href="/File:Capyre.png"><img alt="Capyre.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/c/cf/Capyre.png/50px-Capyre.png?version=438be7977ba35a622b1d9f08894d4167" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/c/cf/Capyre.png/75px-Capyre.png?version=438be7977ba35a622b1d9f08894d4167 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/c/cf/Capyre.png/100px-Capyre.png?version=438be7977ba35a622b1d9f08894d4167 2x" width="50"/></a> <a href="/Capyre" title="Capyre">Capyre</a>
+</td>
+<td colspan="2"><a href="/Fire_Type" title="Fire Type"><img alt="fire" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/25px-Fire.png?version=133924e10316f49f285d3b51a0dc855d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/38px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/50px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 2x" width="25"/></a><a class="mw-redirect" href="/Fire" title="Fire">Fire</a>
+</td>
+<td>55
+</td>
+<td>55
+</td>
+<td>88
+</td>
+<td>71
+</td>
+<td>68
+</td>
+<td>45
+</td>
+<td>47
+</td>
+<td>429
+</td></tr>
+<tr>
+<td>39
+</td>
+<td><a class="image" href="/File:Lapinite.png"><img alt="Lapinite.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/6/69/Lapinite.png/50px-Lapinite.png?version=0d70b3f54cd7df0d23e3d88a10428aaf" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/6/69/Lapinite.png/75px-Lapinite.png?version=0d70b3f54cd7df0d23e3d88a10428aaf 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/6/69/Lapinite.png/100px-Lapinite.png?version=0d70b3f54cd7df0d23e3d88a10428aaf 2x" width="50"/></a> <a href="/Lapinite" title="Lapinite">Lapinite</a>
+</td>
+<td colspan="2"><a href="/Crystal_Type" title="Crystal Type"><img alt="crystal" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/25px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/38px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/50px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 2x" width="2...a_en/thumb/8/81/Nessla.png/100px-Nessla.png?version=f0ccf4d816270aea24c428dad7591baa 2x" width="50"/></a> <a href="/Nessla" title="Nessla">Nessla</a>
+</td>
+<td><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a></td>
+<td><a href="/Electric_Type" title="Electric Type"><img alt="electric" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/25px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/38px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/2f/Electric.png/50px-Electric.png?version=5b9b1fc05941c9b56a77c36606db98af 2x" width="25"/></a><a class="mw-redirect" href="/Electric" title="Electric">Electric</a>
+</td>
+<td>45
+</td>
+<td>58
+</td>
+<td>66
+</td>
+<td>76
+</td>
+<td>50
+</td>
+<td>70
+</td>
+<td>72
+</td>
+<td>437
+</td></tr>
+<tr>
+<td>124
+</td>
+<td><a class="image" href="/File:Valiar.png"><img alt="Valiar.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7b/Valiar.png/50px-Valiar.png?version=3426a24069de61ad41a91a7a132450e9" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7b/Valiar.png/75px-Valiar.png?version=3426a24069de61ad41a91a7a132450e9 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7b/Valiar.png/100px-Valiar.png?version=3426a24069de61ad41a91a7a132450e9 2x" width="50"/></a> <a href="/Valiar" title="Valiar">Valiar</a>
+</td>
+<td colspan="2"><a href="/Temtem_Types" title="Temtem Types"><img alt="unknown" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/c/c9/UnknownType.png/25px-UnknownType.png?version=ff959886ce34741e32fc9da6cb48a952" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/c/c9/UnknownType.png/38px-UnknownType.png?version=ff959886ce34741e32fc9da6cb48a952 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/c/c9/UnknownType.png/50px-UnknownType.png?version=ff959886ce34741e32fc9da6cb48a952 2x" width="25"/></a>Unknown
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td>
+<td data-sort-value="0">-
+</td></tr>
+<tr>
+<td>127
+</td>
+<td><a class="image" href="/File:Kalazu.png"><img alt="Kalazu.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/fc/Kalazu.png/50px-Kalazu.png?version=d4e5e23f1764058d57329e272d5c774b" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/fc/Kalazu.png/75px-Kalazu.png?version=d4e5e23f1764058d57329e272d5c774b 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/f/fc/Kalazu.png/100px-Kalazu.png?version=d4e5e23f1764058d57329e272d5c774b 2x" width="50"/></a> <a href="/Kalazu" title="Kalazu">Kalazu</a>
+</td>
+<td colspan="2"><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a>
+</td>
+<td>63
+</td>
+<td>24
+</td>
+<td>28
+</td>
+<td>54
+</td>
+<td>70
+</td>
+<td>38
+</td>
+<td>44
+</td>
+<td>321
+</td></tr>
+<tr>
+<td>128
+</td>
+<td><a class="image" href="/File:Kalabyss.png"><img alt="Kalabyss.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/90/Kalabyss.png/50px-Kalabyss.png?version=3af62eb873f13a5cee30c65ccd420805" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/90/Kalabyss.png/75px-Kalabyss.png?version=3af62eb873f13a5cee30c65ccd420805 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/90/Kalabyss.png/100px-Kalabyss.png?version=3af62eb873f13a5cee30c65ccd420805 2x" width="50"/></a> <a href="/Kalabyss" title="Kalabyss">Kalabyss</a>
+</td>
+<td><a href="/Water_Type" title="Water Type"><img alt="water" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/25px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/38px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/9d/Water.png/50px-Water.png?version=dacad4a0ad79c949d83d9fcc1e6dfe1f 2x" width="25"/></a><a class="mw-redirect" href="/Water" title="Water">Water</a></td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a>
+</td>
+<td>82
+</td>
+<td>37
+</td>
+<td>37
+</td>
+<td>75
+</td>
+<td>100
+</td>
+<td>65
+</td>
+<td>55
+</td>
+<td>451
+</td></tr>
+<tr>
+<td>129
+</td>
+<td><a class="image" href="/File:Adoroboros.png"><img alt="Adoroboros.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/26/Adoroboros.png/50px-Adoroboros.png?version=5d509207107ab7cb349d141e6aa040a8" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/26/Adoroboros.png/75px-Adoroboros.png?version=5d509207107ab7cb349d141e6aa040a8 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/26/Adoroboros.png/100px-Adoroboros.png?version=5d509207107ab7cb349d141e6aa040a8 2x" width="50"/></a> <a href="/Adoroboros" title="Adoroboros">Adoroboros</a>
+</td>
+<td><a href="/Toxic_Type" title="Toxic Type"><img alt="toxic" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/25px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/38px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/9/96/Toxic.png/50px-Toxic.png?version=11818ee3faa2869c1875471f2b2009a6 2x" width="25"/></a><a class="mw-redirect" href="/Toxic" title="Toxic">Toxic</a></td>
+<td><a href="/Mental_Type" title="Mental Type"><img alt="mental" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/25px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/38px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/50px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 2x" width="25"/></a><a class="mw-redirect" href="/Mental" title="Mental">Mental</a>
+</td>
+<td>66
+</td>
+<td>66
+</td>
+<td>60
+</td>
+<td>29
+</td>
+<td>42
+</td>
+<td>70
+</td>
+<td>110
+</td>
+<td>443
+</td></tr>
+<tr>
+<td>130
+</td>
+<td><a class="image" href="/File:Tuwai.png"><img alt="Tuwai.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/d/db/Tuwai.png/50px-Tuwai.png?version=d09a560485c0122ebb7ed0d1d63044ac" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/d/db/Tuwai.png/75px-Tuwai.png?version=d09a560485c0122ebb7ed0d1d63044ac 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/d/db/Tuwai.png/100px-Tuwai.png?version=d09a560485c0122ebb7ed0d1d63044ac 2x" width="50"/></a> <a href="/Tuwai" title="Tuwai">Tuwai</a>
+</td>
+<td colspan="2"><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>54
+</td>
+<td>47
+</td>
+<td>58
+</td>
+<td>62
+</td>
+<td>45
+</td>
+<td>60
+</td>
+<td>47
+</td>
+<td>373
+</td></tr>
+<tr>
+<td>133
+</td>
+<td><a class="image" href="/File:Tuvine.png"><img alt="Tuvine.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7e/Tuvine.png/50px-Tuvine.png?version=50c92df6d73fe45549c16ac0fd9a78c5" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7e/Tuvine.png/75px-Tuvine.png?version=50c92df6d73fe45549c16ac0fd9a78c5 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/7/7e/Tuvine.png/100px-Tuvine.png?version=50c92df6d73fe45549c16ac0fd9a78c5 2x" width="50"/></a> <a href="/Tuvine" title="Tuvine">Tuvine</a>
+</td>
+<td><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a></td>
+<td><a href="/Crystal_Type" title="Crystal Type"><img alt="crystal" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/25px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/38px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/50px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 2x" width="25"/></a><a class="mw-redirect" href="/Crystal" title="Crystal">Crystal</a>
+</td>
+<td>57
+</td>
+<td>47
+</td>
+<td>65
+</td>
+<td>70
+</td>
+<td>111
+</td>
+<td>60
+</td>
+<td>47
+</td>
+<td>457
+</td></tr>
+<tr>
+<td>137
+</td>
+<td><a class="image" href="/File:Kinu.png"><img alt="Kinu.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/47/Kinu.png/50px-Kinu.png?version=4a7edf6c93a0d16619a7ab20fa6a3e4e" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/47/Kinu.png/75px-Kinu.png?version=4a7edf6c93a0d16619a7ab20fa6a3e4e 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/47/Kinu.png/100px-Kinu.png?version=4a7edf6c93a0d16619a7ab20fa6a3e4e 2x" width="50"/></a> <a href="/Kinu" title="Kinu">Kinu</a>
+</td>
+<td><a href="/Nature_Type" title="Nature Type"><img alt="nature" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/25px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/38px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/a/a7/Nature.png/50px-Nature.png?version=89de3b6e03fddaeef2e20e8cc3d72e50 2x" width="25"/></a><a class="mw-redirect" href="/Nature" title="Nature">Nature</a></td>
+<td><a href="/Mental_Type" title="Mental Type"><img alt="mental" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/25px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/38px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Mental.png/50px-Mental.png?version=ba665c39b24bda7258c7f990bca1bd17 2x" width="25"/></a><a class="mw-redirect" href="/Mental" title="Mental">Mental</a>
+</td>
+<td>47
+</td>
+<td>74
+</td>
+<td>74
+</td>
+<td>53
+</td>
+<td>41
+</td>
+<td>69
+</td>
+<td>96
+</td>
+<td>454
+</td></tr>
+<tr>
+<td>138
+</td>
+<td><a class="image" href="/File:Vulvir.png"><img alt="Vulvir.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/40/Vulvir.png/50px-Vulvir.png?version=10339fb7df23e8649bc8d70b8b02d996" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/40/Vulvir.png/75px-Vulvir.png?version=10339fb7df23e8649bc8d70b8b02d996 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/4/40/Vulvir.png/100px-Vulvir.png?version=10339fb7df23e8649bc8d70b8b02d996 2x" width="50"/></a> <a href="/Vulvir" title="Vulvir">Vulvir</a>
+</td>
+<td><a href="/Fire_Type" title="Fire Type"><img alt="fire" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/25px-Fire.png?version=133924e10316f49f285d3b51a0dc855d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/38px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/50px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 2x" width="25"/></a><a class="mw-redirect" href="/Fire" title="Fire">Fire</a></td>
+<td><a href="/Earth_Type" title="Earth Type"><img alt="earth" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/25px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/38px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/50px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 2x" width="25"/></a><a class="mw-redirect" href="/Earth" title="Earth">Earth</a>
+</td>
+<td>59
+</td>
+<td>54
+</td>
+<td>57
+</td>
+<td>47
+</td>
+<td>64
+</td>
+<td>47
+</td>
+<td>31
+</td>
+<td>359
+</td></tr>
+<tr>
+<td>139
+</td>
+<td><a class="image" href="/File:Vulor.png"><img alt="Vulor.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/6/61/Vulor.png/50px-Vulor.png?version=6aa543a8246e1762ed72614a5bd7d800" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/6/61/Vulor.png/75px-Vulor.png?version=6aa543a8246e1762ed72614a5bd7d800 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/6/61/Vulor.png/100px-Vulor.png?version=6aa543a8246e1762ed72614a5bd7d800 2x" width="50"/></a> <a href="/Vulor" title="Vulor">Vulor</a>
+</td>
+<td><a href="/Fire_Type" title="Fire Type"><img alt="fire" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/25px-Fire.png?version=133924e10316f49f285d3b51a0dc855d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/38px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/50px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 2x" width="25"/></a><a class="mw-redirect" href="/Fire" title="Fire">Fire</a></td>
+<td><a href="/Earth_Type" title="Earth Type"><img alt="earth" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/25px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/38px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/50px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 2x" width="25"/></a><a class="mw-redirect" href="/Earth" title="Earth">Earth</a>
+</td>
+<td>65
+</td>
+<td>59
+</td>
+<td>63
+</td>
+<td>49
+</td>
+<td>71
+</td>
+<td>49
+</td>
+<td>32
+</td>
+<td>388
+</td></tr>
+<tr>
+<td>140
+</td>
+<td><a class="image" href="/File:Vulcrane.png"><img alt="Vulcrane.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Vulcrane.png/50px-Vulcrane.png?version=7bbb3f7a3ec0e3407e5b5219ecec5a06" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Vulcrane.png/75px-Vulcrane.png?version=7bbb3f7a3ec0e3407e5b5219ecec5a06 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/b3/Vulcrane.png/100px-Vulcrane.png?version=7bbb3f7a3ec0e3407e5b5219ecec5a06 2x" width="50"/></a> <a href="/Vulcrane" title="Vulcrane">Vulcrane</a>
+</td>
+<td><a href="/Fire_Type" title="Fire Type"><img alt="fire" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/25px-Fire.png?version=133924e10316f49f285d3b51a0dc855d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/38px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/50px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 2x" width="25"/></a><a class="mw-redirect" href="/Fire" title="Fire">Fire</a></td>
+<td><a href="/Earth_Type" title="Earth Type"><img alt="earth" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/25px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/38px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/1/1e/Earth.png/50px-Earth.png?version=4ea28113176555ebc7b909333fb1d0f7 2x" width="25"/></a><a class="mw-redirect" href="/Earth" title="Earth">Earth</a>
+</td>
+<td>76
+</td>
+<td>65
+</td>
+<td>73
+</td>
+<td>74
+</td>
+<td>86
+</td>
+<td>64
+</td>
+<td>35
+</td>
+<td>473
+</td></tr>
+<tr>
+<td>141
+</td>
+<td><a class="image" href="/File:Pigepic.png"><img alt="Pigepic.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/20/Pigepic.png/50px-Pigepic.png?version=97ac99044de9b93ccb0c2dd9db9957e1" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/20/Pigepic.png/75px-Pigepic.png?version=97ac99044de9b93ccb0c2dd9db9957e1 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/2/20/Pigepic.png/100px-Pigepic.png?version=97ac99044de9b93ccb0c2dd9db9957e1 2x" width="50"/></a> <a href="/Pigepic" title="Pigepic">Pigepic</a>
+</td>
+<td colspan="2"><a href="/Wind_Type" title="Wind Type"><img alt="wind" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/25px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/38px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/b/bf/Wind.png/50px-Wind.png?version=d71420bcf7e42d8312fdf68ddb709ede 2x" width="25"/></a><a class="mw-redirect" href="/Wind" title="Wind">Wind</a>
+</td>
+<td>54
+</td>
+<td>72
+</td>
+<td>58
+</td>
+<td>60
+</td>
+<td>72
+</td>
+<td>45
+</td>
+<td>72
+</td>
+<td>433
+</td></tr>
+<tr>
+<td>161
+</td>
+<td><a class="image" href="/File:Anahir.png"><img alt="Anahir.png" decoding="async" height="50" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/e/ea/Anahir.png/50px-Anahir.png?version=58320c6be8d7be738049f7cb4d6907e1" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/e/ea/Anahir.png/75px-Anahir.png?version=58320c6be8d7be738049f7cb4d6907e1 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/e/ea/Anahir.png/100px-Anahir.png?version=58320c6be8d7be738049f7cb4d6907e1 2x" width="50"/></a> <a href="/Anahir" title="Anahir">Anahir</a>
+</td>
+<td><a href="/Crystal_Type" title="Crystal Type"><img alt="crystal" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/25px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/38px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/31/Crystal.png/50px-Crystal.png?version=1c1daf5becf5758f1c91bb057dd80339 2x" width="25"/></a><a class="mw-redirect" href="/Crystal" title="Crystal">Crystal</a></td>
+<td><a href="/Fire_Type" title="Fire Type"><img alt="fire" decoding="async" height="25" src="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/25px-Fire.png?version=133924e10316f49f285d3b51a0dc855d" srcset="https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/38px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 1.5x, https://gamepedia.cursecdn.com/temtem_gamepedia_en/thumb/3/30/Fire.png/50px-Fire.png?version=133924e10316f49f285d3b51a0dc855d 2x" width="25"/></a><a class="mw-redirect" href="/Fire" title="Fire">Fire</a>
+</td>
+<td>54
+</td>
+<td>36
+</td>
+<td>31
+</td>
+<td>50
+</td>
+<td>101
+</td>
+<td>50
+</td>
+<td>101
+</td>
+<td>423
+</td></tr>
+</tbody></table>
