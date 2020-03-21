@@ -12,8 +12,17 @@ main_page = 'https://temtem.gamepedia.com'
 species = '/Temtem_Species'
 http_regex = re.compile('http*')
 tier_page = 'https://temtactics.gg/tierlist'
+tech_page = 'https://temtactics.gg/db/techniques'
 
-def get_request(main_page, tail):
+def selenium_get_page(main_page):
+    """Open the page and get the html with selenium (Javascript)"""
+    driver = webdriver.Firefox()
+    driver.get(main_page)
+    html = driver.execute_script('return document.documentElement.outerHTML')
+    driver.close()
+    return html
+
+def get_request(main_page, tail = ''):
     """Returns a bs with the content of the page"""
     rp = requests.get(main_page + tail)
     # BeautifulSoup content generation
@@ -67,14 +76,10 @@ def append_traits(df):
     return df
 
 def get_tierlist(main_page):
-
-    # Open the page and get the html with selenium (Javascript)
-    driver = webdriver.Firefox()
-    driver.get(tier_page)
-    html = driver.execute_script('return document.documentElement.outerHTML')
+    """Returns a dict with the tiers tags and the Temtems belonging to each tier"""
+    html = selenium_get_page(main_page)
     sel_soup = BeautifulSoup(html, 'html.parser')
     tier_lists = sel_soup.findAll('div', {'class': 'tier-list'})[0]
-    driver.close()
     
     # Get the list of list of h2 elements and select only the content inside
     tiers_category = [i.text for i in tier_lists.findAll('div', {'class': 'tier-category'})]
@@ -100,23 +105,35 @@ def get_tierlist(main_page):
         counter = counter + 1
     return dict_tiers
 
+def get_techniques(main_page):
+    html = selenium_get_page(main_page)
+    sel_soup = BeautifulSoup(html, 'html.parser')
+    # even and odds are the rows from the table, we can pick both classes into the find
+    even_odds = sel_soup.findAll('div', {'class': ['rt-tr -even', 'rt-tr -odd']})
+    ls_eo = [[i.contents[0].text, i.contents[1].contents[0].get('alt'), i.contents[3].text, 
+    i.contents[4].text, i.contents[5].text,
+     i.contents[10].text] for i in even_odds]
+
+    print(even_odds)
+
+
 ############################# Main #############################
 
-soup = get_request(main_page, species)
+#soup = get_request(main_page, species)
 
 # Extracting the table with all Tems from https://temtem.gamepedia.com/Temtem_Species
-temtem_table = soup.findAll('table')[1]
-all_tr = temtem_table.findAll('tr')
+#temtem_table = soup.findAll('table')[1]
+#all_tr = temtem_table.findAll('tr')
 
 # Dataframe creation with header and data
-header = get_header(all_tr)
-dict_temtems = get_all_stats(all_tr, header)
-df_tm = get_dataframe(header, dict_temtems)
+#header = get_header(all_tr)
+#dict_temtems = get_all_stats(all_tr, header)
+#df_tm = get_dataframe(header, dict_temtems)
 
 # For each Temtem we can append the traits from https://temtem.gamepedia.com/[Temtem name]
-df = append_traits(df_tm)
+#df = append_traits(df_tm)
 
 # Extracting the Tier List from https://temtactics.gg/tierlist  
-tl = get_tierlist(tier_page)
+#tl = get_tierlist(tier_page)
 
-
+get_techniques(tech_page)
