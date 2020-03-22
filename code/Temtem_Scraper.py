@@ -106,34 +106,43 @@ def get_tierlist(main_page):
     return dict_tiers
 
 def get_techniques(main_page):
+    """Returns a list with all the techniques from https://temtactics.gg/db/techniques"""
     html = selenium_get_page(main_page)
     sel_soup = BeautifulSoup(html, 'html.parser')
     # even and odds are the rows from the table, we can pick both classes into the find
     even_odds = sel_soup.findAll('div', {'class': ['rt-tr -even', 'rt-tr -odd']})
-    ls_eo = [[i.contents[0].text, i.contents[1].contents[0].get('alt'), i.contents[3].text, 
+    ls_eo = [[i.contents[0].text, i.contents[1].find('img', alt=True)['alt'],  
+    i.contents[2].find('img', alt=True)['alt'], i.contents[3].text, 
     i.contents[4].text, i.contents[5].text,
-     i.contents[10].text] for i in even_odds]
+    i.contents[6].find('img', alt=True)['alt'],
+    i.contents[10].text, 
+    i.contents[12]]
+    for i in even_odds]
+    # getting the "Can Learn" list from each technique
+    ls_h2 = []
+    for h in ls_eo:
+        h[8] = [tem.text for tem in h[8].findAll('h2')]
 
-    print(even_odds)
-
+    return ls_eo
 
 ############################# Main #############################
 
-#soup = get_request(main_page, species)
+soup = get_request(main_page, species)
 
 # Extracting the table with all Tems from https://temtem.gamepedia.com/Temtem_Species
-#temtem_table = soup.findAll('table')[1]
-#all_tr = temtem_table.findAll('tr')
+temtem_table = soup.findAll('table')[1]
+all_tr = temtem_table.findAll('tr')
 
 # Dataframe creation with header and data
-#header = get_header(all_tr)
-#dict_temtems = get_all_stats(all_tr, header)
-#df_tm = get_dataframe(header, dict_temtems)
+header = get_header(all_tr)
+dict_temtems = get_all_stats(all_tr, header)
+df_tm = get_dataframe(header, dict_temtems)
 
 # For each Temtem we can append the traits from https://temtem.gamepedia.com/[Temtem name]
-#df = append_traits(df_tm)
+df = append_traits(df_tm)
 
 # Extracting the Tier List from https://temtactics.gg/tierlist  
-#tl = get_tierlist(tier_page)
+tl = get_tierlist(tier_page)
 
-get_techniques(tech_page)
+# Extracting the Techniques List from https://temtactics.gg/techniques
+techniques = get_techniques(tech_page)
