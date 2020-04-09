@@ -1,0 +1,4 @@
+
+pickles/*.pkl
+*.log
+__pycache__/

@@ -6,6 +6,7 @@ import requests
 import re
 import numpy as np
 from selenium import webdriver
+from temtem_utils import save, load
 
 # URL GET Request
 main_page = 'https://temtem.gamepedia.com'
@@ -119,7 +120,6 @@ def get_techniques(main_page):
     i.contents[12]]
     for i in even_odds]
     # getting the "Can Learn" list from each technique
-    ls_h2 = []
     for h in ls_eo:
         h[8] = [tem.text for tem in h[8].findAll('h2')]
 
@@ -146,3 +146,9 @@ tl = get_tierlist(tier_page)
 
 # Extracting the Techniques List from https://temtactics.gg/techniques
 techniques = get_techniques(tech_page)
+
+############################# Save #############################
+
+save('temtemdf.pkl', df)
+save('tierlist.pkl', tl)
+save('techniques.pkl', techniques)
