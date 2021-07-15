@@ -127,28 +127,29 @@ def get_techniques(main_page):
 
 ############################# Main #############################
 
-soup = get_request(main_page, species)
+if __main__ == "__main__":
+    soup = get_request(main_page, species)
 
-# Extracting the table with all Tems from https://temtem.gamepedia.com/Temtem_Species
-temtem_table = soup.findAll('table')[1]
-all_tr = temtem_table.findAll('tr')
+    # Extracting the table with all Tems from https://temtem.gamepedia.com/Temtem_Species
+    temtem_table = soup.findAll('table')[1]
+    all_tr = temtem_table.findAll('tr')
 
-# Dataframe creation with header and data
-header = get_header(all_tr)
-dict_temtems = get_all_stats(all_tr, header)
-df_tm = get_dataframe(header, dict_temtems)
+    # Dataframe creation with header and data
+    header = get_header(all_tr)
+    dict_temtems = get_all_stats(all_tr, header)
+    df_tm = get_dataframe(header, dict_temtems)
 
-# For each Temtem we can append the traits from https://temtem.gamepedia.com/[Temtem name]
-df = append_traits(df_tm)
+    # For each Temtem we can append the traits from https://temtem.gamepedia.com/[Temtem name]
+    df = append_traits(df_tm)
 
-# Extracting the Tier List from https://temtactics.gg/tierlist  
-tl = get_tierlist(tier_page)
+    # Extracting the Tier List from https://temtactics.gg/tierlist  
+    tl = get_tierlist(tier_page)
 
-# Extracting the Techniques List from https://temtactics.gg/techniques
-techniques = get_techniques(tech_page)
+    # Extracting the Techniques List from https://temtactics.gg/techniques
+    techniques = get_techniques(tech_page)
 
-############################# Save #############################
+    ############################# Save #############################
 
-save('temtemdf.pkl', df)
-save('tierlist.pkl', tl)
-save('techniques.pkl', techniques)
+    save('temtemdf.pkl', df)
+    save('tierlist.pkl', tl)
+    save('techniques.pkl', techniques)
